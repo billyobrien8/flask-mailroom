@@ -1,6 +1,10 @@
 # Flask Mailroom Application
 
-Running at [http://afternoon-reef-51666.herokuapp.com/donations/](http://afternoon-reef-51666.herokuapp.com/donations/).
+Running at N/A
+    - Unfortunately I was not able to get my heroku app working. 
+    - When I follow the steps to pusblish to heroku, the first error I encounter is when I type "git push heroky master". I get an error that reads: "error: failed to push some refs to 'https://git.heroku.com/peaceful-bastion-46323.git'". 
+    - Then, when I try and run setup.py, I get an error that reads: "python: can't open file 'setup.py': [Errno 2] No such file or directory"
+    - Any advice on how to fix this issue would be greatly appreciated. 
 
 ## Your Task
 
